@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iloveimg-resized (1)</folder>
+	<filename>0.jpg</filename>
+	<path>D:\SIH\windows_v1.8.0\Monuments\iloveimg-resized (1)\0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>st francis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>35</ymin>
+			<xmax>293</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
