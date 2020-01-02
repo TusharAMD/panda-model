@@ -7,3 +7,15 @@ item {
   id: 2
   name: 'Augada_Fort'
 }
+item {
+  id: 3
+  name: 'Basilica_of_bom_jesus'
+}
+item {
+  id: 4
+  name: 'Mae_De_Deus'
+}
+item {
+  id: 4
+  name: 'Safa_Masjid'
+}
