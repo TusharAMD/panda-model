@@ -16,6 +16,26 @@ item {
   name: 'Mae_De_Deus'
 }
 item {
-  id: 4
+  id: 5
   name: 'Safa_Masjid'
+}
+item {
+  id: 5
+  name: 'Safa_Masjid'
+}
+item {
+  id: 5
+  name: 'Se_Cathedral'
+}
+item {
+  id: 5
+  name: 'Shanta_Durga_Temple'
+}
+item {
+  id: 5
+  name: 'St_Augustine'
+}
+item {
+  id: 5
+  name: 'St_Estevam'
 }
